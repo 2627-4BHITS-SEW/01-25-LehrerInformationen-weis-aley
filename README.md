@@ -1,6 +1,6 @@
 # Kammerlplan
 
-Unity-2D-Projekt für SEW an der HTL Salzburg: Nachbau von Gang B und C im 3. Stock mit elektronischen Türschildern. Die Schilder zeigen Raumnummer, Lehrer, Sprechstunde und Telefonnummer. Die Daten kommen per Regex von der Lehrerseite der HTL-Homepage.
+Unity-2D-Projekt für Softwareentwicklung an der HTL Salzburg: Nachbau von Gang B und C im 3. Stock mit digitale/elektronischen Türschildern. Die Schilder zeigen Raumnummer, Lehrer, Sprechstunde und Telefonnummer. Die Daten kommen per HTTP-Request durch Regex von der Lehrerseite der HTL-Homepage.
 
 ## Edge Cases
 
